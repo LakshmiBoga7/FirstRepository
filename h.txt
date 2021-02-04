@@ -1,0 +1,29 @@
+class test:
+	def f1(self,a):
+		print(" i am in f1")
+
+	def f1(self,a,b):
+		print("i am in f2")
+t=test()
+t.f1(4)
+t.f1(4,5)
+
+
+class test:
+	def f1(self,a):
+		print("i am in f1")
+class demo(test):
+	def f1(self,a):
+		f1.super()
+		print("i am in f1 method")
+t=demo()
+t.f1(4)
+"
+name=input("enter Your Name").split
+Lakshmi Boga
+print(name[1]+name
+print(name[::-1])
+
+
+import threading
+ classs test(threading.Thread):
