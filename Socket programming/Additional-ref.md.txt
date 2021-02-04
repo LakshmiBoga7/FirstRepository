@@ -1,0 +1,13 @@
+https://pymotw.com/2/socket/tcp.html
+https://wiki.python.org/moin/TcpCommunication
+
+https://pymotw.com/2/socket/udp.html
+https://wiki.python.org/moin/UdpCommunication
+
+https://pythontic.com/modules/select/introduction
+https://pythontic.com/modules/socket/udp-client-server-example
+
+Videos:-
+* https://www.youtube.com/watch?v=T0rYSFPAR0A (edureka)
+* https://www.youtube.com/watch?v=u4kr7EFxAKk (telusko)
+* https://www.youtube.com/watch?v=3QiPPX-KeSc (tech with tim)

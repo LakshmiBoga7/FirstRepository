@@ -1,0 +1,34 @@
+## Assignment
+1. Design Simple TCP Server
+  a) regular open
+  b) with statement
+  c) server as a class
+  d) implement __entry__ to support with statement for your server class
+2. Design Simple TCP client in all four ways
+3. Design UDP sender, receiver
+4. Implement file transfer over TCP sockets a) upload b) download
+5. Implement time service over UDP sockets
+6. Implement a TCP server, which transfers file attributes as per client request
+7. Implement socket communication, to transmit dictionary object in JSON format and decode JSON back as dictionary on receiver side
+8. Implement socket communication, to transmit list of objects in JSON format and decode back objects on receiver side
+9. Implement socket communication, to transmit serialized objects and deserialize on receiver side (Hint:- use pickle module for serialization/deserialization)
+10. Implement socket communication as follows
+    a. read serialized data from file
+    b. transmit serialized data
+    c. receive deserialized data and store in a file
+11. Implement concurrent server (multi client) using select API
+12. Implement a std client which asynchronously handles I/O (stdin/file data) and server communication.
+13. Rewrite TCP/UDP client, which takes hostname as argument and resolve IP address using suitable API, e.g. gethostbyname
+14. Implement a TCP client, to make simple HTTP GET request
+15. Write a python urllib.parse examples
+    a. Parse url string into named tuple and retrive individual elements - scheme, netloc, path, params, qs, fragment 
+    b. retrive port number from netloc
+    b. further parse query string and print name value pairs
+    c. Build URL string, given six-item iterable
+16. Re-write HTTP GET example using urllib
+
+## Commands/tools
+* telnet
+* netstat
+* ping
+* wireshark

@@ -1,0 +1,33 @@
+Socket programming
+------------------------------------
+
+References:-
+
+https://docs.python.org/3/howto/sockets.html
+https://docs.python.org/3/library/socket.html
+https://realpython.com/python-sockets/
+https://www.py4e.com/lessons/network
+https://www.pubnub.com/blog/socket-programming-in-python-client-server-p2p/ (with videos)
+---
+
+https://www.geeksforgeeks.org/socket-programming-python/
+https://www.tutorialspoint.com/python/python_networking.htm
+https://www.techwithtim.net/tutorials/socket-programming/
+
+=======================================================================
+
+Socket Programming in Python (Guide) – Real Python
+
+Socket Programming in Python | PubNub
+
+Socket Programming in Python - GeeksforGeeks
+
+Socket Programming HOWTO — Python 3.9.1 documentation
+
+Python - Network Programming - Tutorialspoint
+
+PY4E - Python for Everybody
+
+socket — Low-level networking interface — Python 3.9.1 documentation
+
+Socket Programming - techwithtim.net
